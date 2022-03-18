@@ -5,6 +5,8 @@ public class HelGit {
 
         System.out.println("Hello Git");
         System.out.println("2.satir calisma");
+        // remote da degisiklik yapiyorum simdi bunu PULL edecegim.
+      
     }
 }
 
