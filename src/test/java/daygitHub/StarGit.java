@@ -5,6 +5,9 @@ public class StarGit {
         System.out.println("Start Git");
         System.out.println("Yeni bir satir yazdim");
 
+
+        // yeni test code ile alakali eklemeler yaptim!!!
+
     }
 
 
