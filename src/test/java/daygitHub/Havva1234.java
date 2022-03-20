@@ -5,4 +5,6 @@ public class Havva1234 {
 
     // 1.gun bitti
 
+    // 2.gun bitti ,testler tamamlandi local branch merge hazir!!!
+
 }

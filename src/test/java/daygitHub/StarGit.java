@@ -8,6 +8,12 @@ public class StarGit {
 
         // yeni test code ile alakali eklemeler yaptim!!!
 
+
+        // 2.gun local de branch da calistim , kodum bitti
+
+
+
+
     }
 
 
