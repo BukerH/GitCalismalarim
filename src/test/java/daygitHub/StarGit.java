@@ -10,6 +10,7 @@ public class StarGit {
 
 
         // 2.gun local de branch da calistim , kodum bitti
+        //Hadi hayirli olsun:)
 
 
 
